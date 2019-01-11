@@ -1,0 +1,7 @@
+[
+    {"keys": ["ctrl+shift+,"], "command": "insert_snippet", "args": {"contents": "<"}},
+    {"keys": ["ctrl+shift+."], "command": "insert_snippet", "args": {"contents": ">"}},
+    {"keys": ["ctrl+shift+2"], "command": "insert_snippet", "args": {"contents": "\""}},
+    {"keys": ["f5"], "command" : "refresh_folder_list"}
+]
+
